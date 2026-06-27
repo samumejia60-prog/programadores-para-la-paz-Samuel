@@ -1,0 +1,11 @@
+El uso responsable de la información 
+en internet y la participación ciudadana
+se conectan directamente con el trabajo técnico en Git,
+ ya que todos exigen transparencia, orden y rigor ético. 
+ En la era digital, verificar los datos antes de compartirlos
+  es un deber ciudadano indispensable para evitar la desinformación y 
+  construir debates públicos sanos y constructivos. De igual manera, utilizar herramientas de control de versiones como Git
+   traslada esta misma responsabilidad al ámbito técnico, permitiendo organizar las ideas y el código de forma transparente, auditable y colaborativa.
+    Así, un repositorio no es solo un espacio de almacenamiento, sino una bitácora pública donde cada aporte queda registrado con autoría y justificación clara.
+     En conclusión, la ciudadanía digital y el desarrollo técnico comparten el mismo principio fundamental: actuar con honestidad, responsabilidad y claridad en 
+     los entornos comunitarios y virtuales para lograr un impacto real.
