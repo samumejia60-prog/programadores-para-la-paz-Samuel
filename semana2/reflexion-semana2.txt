@@ -1,0 +1,10 @@
+El dominio de la terminal para navegar y organizar archivos es una habilidad fundamental para cualquier desarrollador, 
+ya que optimiza el flujo de trabajo y garantiza la eficiencia efectivan la gestión de proyectos. A diferencia de las interfaces 
+gráficas convencionales, la línea de comandos permite ejecutar tareas complejas, automatizar procesos y estructurar 
+directorios de manera mucho más rápida y precisa. Además, comprender la navegación por comandos es un requisito indispensable para 
+interactuar de forma fluida con herramientas de control de versiones como Git y entornos en la nube como GitHub Codespaces. Mantener 
+una estructura de archivos limpia y estandarizada no solo facilita el orden individual, sino que también asegura la transparencia, 
+la auditabilidad y la colaboración efectiva dentro de equipos multidisciplinarios. En el desarrollo de soluciones técnicas
+con impacto social, la terminal se convierte en la herramienta clave para administrar recursos de forma rigurosa, segura y profesional. 
+En conclusión, saber usar la terminal transforma al desarrollador de un simple usuario de software a un administrador con control total 
+sobre la arquitectura y el despliegue de sus proyectos en entornos digitales.

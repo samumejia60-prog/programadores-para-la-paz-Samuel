@@ -1,0 +1,25 @@
+Comandos de terminal utilizados en la actividad de la Semana 2:
+
+1. cd /workspaces/programadores-para-la-paz-Samuel
+   (Permite ubicarse en la raíz del repositorio de trabajo en Codespaces)
+
+2. pwd
+(Verifica que la ubicación actual sea la carpeta principal correcta)
+
+3. mkdir semana2
+(Crea la estructura de la nueva carpeta para los entregables de esta semana)
+
+4. cd semana2
+(Accede al directorio recién creado para trabajar dentro de él)
+
+5. touch preguntas-semana2.txt
+(Crea el archivo vacío para registrar las respuestas de selección múltiple)
+
+ 6. touch comandos-terminal.txt
+(Crea el archivo de registro de la bitácora de comandos)
+
+7. touch reflexion-semana2.txt
+(Crea el archivo para la posterior actividad de reflexión de la semana)
+
+ 8. ls
+(Lista el contenido para confirmar visualmente que los tres archivos fueron creados de forma exitosa)
