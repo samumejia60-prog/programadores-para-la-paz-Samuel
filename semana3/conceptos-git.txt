@@ -1,0 +1,11 @@
+Repositorio: Es el contenedor digital donde se organizan y guardan de forma segura 
+todos los archivos de un proyecto. Su función clave es registrar el historial completo 
+de modificaciones para poder consultar versiones previas en cualquier momento.
+
+Commit: Es un punto de control o "foto" que guarda de forma definitiva los cambios
+realizados en el proyecto en un momento específico. Cada registro incluye un mensaje 
+descriptivo que detalla la evolución y mejoras aplicadas al código.
+
+Push: Es la acción de subir y transferir todos los commits y cambios registrados localmente
+desde la terminal hacia el repositorio remoto en GitHub. Este paso es indispensable para respaldar
+el trabajo en la nube y publicar la entrega final.

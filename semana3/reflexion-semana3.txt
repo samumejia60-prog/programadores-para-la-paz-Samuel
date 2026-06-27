@@ -1,0 +1,9 @@
+El uso de herramientas de control de versiones como Git es fundamental 
+en el desarrollo de software porque garantiza la trazabilidad y la seguridad 
+de todo el código de un proyecto. Mantener un registro histórico detallado de los
+cambios permite a los desarrolladores auditar la evolución de los archivos, identificar 
+con precisión el origen de cualquier error técnico y revertir el sistema a un punto de control
+previo si algo llega a fallar. Además, esta práctica elimina el riesgo de pérdida accidental 
+de información y proporciona un entorno estructurado que facilita la colaboración transparente y 
+eficiente en equipos de trabajo multidisciplinarios.
+
