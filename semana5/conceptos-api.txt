@@ -1,0 +1,3 @@
+Qué hace esta ruta: Esta ruta de tipo POST está configurada para recibir un objeto de datos en formato JSON enviado por un usuario desde el cuerpo de la solicitud (req.body), extraer la propiedad específica del mensaje y devolver una respuesta estructurada que confirma el éxito de la recepción junto con el texto original que fue procesado.
+
+Para qué podría servir en una aplicación comunitaria: En un entorno de gestión comunitaria, este endpoint es sumamente útil para habilitar canales digitales donde los ciudadanos puedan reportar incidentes en tiempo real, enviar quejas, registrar daños en la infraestructura pública o notificar alertas territoriales directamente a una base de datos central sin intermediarios.

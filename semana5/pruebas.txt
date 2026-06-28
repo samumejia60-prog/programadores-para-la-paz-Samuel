@@ -1,0 +1,5 @@
+http://localhost:3000 -> El servidor responde devolviendo el texto plano "Servidor activo", confirmando que la raíz del proyecto web responde sin problemas.
+
+http://localhost:3000/saludo -> El servidor procesa la petición en esa ruta específica y muestra en pantalla el mensaje general "Hola comunidad".
+
+http://localhost:3000/mensaje/juan -> El servidor extrae dinámicamente el valor del parámetro de la URL (:nombre) y responde saludando de forma personalizada con el texto "Hola juan".

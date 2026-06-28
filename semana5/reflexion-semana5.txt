@@ -1,0 +1,8 @@
+Las APIs representan una infraestructura digital indispensable para que las comunidades organizadas puedan gestionar su información de manera transparente,
+ágil y estructurada. Al funcionar como puentes de comunicación estandarizados, permiten centralizar en un solo servidor lógico múltiples reportes, alertas
+tempranas o solicitudes vecinales generadas desde distintas aplicaciones o celulares de los habitantes. Esto optimiza los flujos de respuesta comunitaria al
+clasificar automáticamente los datos, evitando la duplicidad de información o el desorden característico de los canales de mensajería informales. Además, 
+el uso de APIs abiertas facilita la rendición de cuentas y el control social, ya que los liderazgos locales pueden conectar estas fuentes con paneles públicos 
+interactivos para visibilizar las necesidades del territorio. En conclusión, implementar estas interfaces lógicas democratiza el acceso a las tecnologías de la 
+información, dotando a la ciudadanía de herramientas técnicas de alta calidad para coordinar esfuerzos colectivos, agilizar la toma de decisiones y fortalecer la
+seguridad territorial de forma autónoma.
