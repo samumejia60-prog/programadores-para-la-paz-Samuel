@@ -8,4 +8,3 @@ Como respuesta, el servidor devuelve un objeto JSON estructurado que confirma la
           "mensaje": "Hola comunidad"
 }
 
-}

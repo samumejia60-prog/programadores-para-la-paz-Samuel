@@ -3,4 +3,3 @@
         "descripcion": "La comunidad reporta que una lámpara del parque principal no funciona desde hace varios días."
 }
 
-}
