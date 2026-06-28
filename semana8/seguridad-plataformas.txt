@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios de la comunidad en pantallas o módulos de acceso público.
+2. Proteger rigurosamente las credenciales y llaves de acceso mediante el uso de variables de entorno seguras (.env).
+3. Usar conexiones cifradas y seguras (protocolos HTTPS y SSH) para cualquier transferencia o consulta de información.
+4. Registrar de manera automática los accesos y bitácoras del sistema (logs) para detectar comportamientos inusuales.
+5. Limitar el acceso a información sensible únicamente a los roles estrictamente autorizados dentro del proceso comunitario.

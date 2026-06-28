@@ -1,0 +1,9 @@
+La seguridad digital en las plataformas tecnológicas comunitarias y participativas es indispensable porque resguarda la 
+confianza depositada por los ciudadanos en los canales democráticos digitales. Cuando una comunidad utiliza una herramienta 
+tecnológica para auditar, denunciar o proponer mejoras en su territorio, la plataforma maneja datos sensibles y opiniones que 
+pertenecen a liderazgos sociales. Un fallo de seguridad o una filtración no solo vulnera la privacidad técnica, sino que puede 
+exponer la integridad de los participantes ante posibles represalias o persecuciones políticas. Adicionalmente, proteger estos 
+entornos evita la inyección de información falsa o la manipulación de procesos consultivos por parte de actores externos malintencionados. 
+Garantizar la confidencialidad, la disponibilidad y la integridad del sistema es un deber ético fundamental, puesto que una plataforma 
+vulnerable desincentiva la participación colectiva, debilita el control social y fragmenta el tejido organizativo que sostiene el 
+desarrollo de las comunidades.
