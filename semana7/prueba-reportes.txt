@@ -1,0 +1,4 @@
+Al enviar una petición de tipo GET a la ruta http://localhost:3000/reportes después de usar la ruta POST, el servidor responde 
+devolviendo un array o lista en formato JSON que contiene todos los reportes guardados temporalmente en la memoria del servidor. 
+Cada objeto dentro de la lista incluye un campo 'id' autoincremental, el 'tipo' de incidencia y su respectiva 'descripcion'. 
+Si el servidor se reinicia, esta lista volverá a aparecer vacía debido a que los datos están en memoria y no en una base de datos persistente.
