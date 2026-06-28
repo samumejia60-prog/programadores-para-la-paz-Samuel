@@ -1,0 +1,13 @@
+¿Qué ocurre cuando ejecutas node server.js?
+Al ejecutar el comando, Node.js interpreta el código de JavaScript de nuestra aplicación, activa el Framework Express e inicializa el proceso continuo del servidor backend en el entorno local.
+
+¿Qué mensaje aparece en la terminal?
+Aparece el mensaje de confirmación controlado por el callback de escucha: "Servidor ejecutándose en puerto 3000". El indicador de la terminal se queda bloqueado esperando peticiones HTTP.
+
+¿Qué sucede cuando visitas la ruta /estado?
+El navegador envía una petición de tipo GET al servidor local y este intercepta la ruta devolviendo una respuesta en formato JSON que detalla el estatus operativo:
+{
+      "estado": "Servidor funcionando",
+        "servicio": "API comunitaria"
+}
+
