@@ -1,0 +1,9 @@
+La construcción de herramientas tecnológicas propias mediante tecnologías abiertas como Node.js
+es fundamental para que las comunidades e iniciativas ciudadanas alcancen una verdadera autonomía
+y soberanía digital. Al no depender de plataformas privadas o licencias costosas, los liderazgos locales
+pueden diseñar soluciones personalizadas que respondan de manera exacta a las problemáticas y dinámicas 
+particulares de sus territorios. Asimismo, el software libre fomenta la transparencia, la seguridad de los datos 
+comunitarios y la colaboración abierta, permitiendo que el conocimiento técnico se democratice y permanezca en la
+región. En conclusión, apropiarse de estas tecnologías no solo reduce las brechas de conectividad y exclusión, sino
+que empodera a los ciudadanos para gestionar sus propios recursos, automatizar procesos colectivos y visibilizar sus
+causas ante el mundo de forma independiente.
