@@ -1,0 +1,13 @@
+HISTORIAS DE USUARIO (Ordenadas de Mayor a Menor Prioridad)
+
+[Alta Prioridad]
+1. Como ciudadano quiero registrar una incidencia o queja en el sistema para dejar evidencia formal de una irregularidad detectada en el territorio.
+
+[Alta Prioridad]
+2. Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte para revisarlo a tiempo.
+
+[Media Prioridad]
+3. Como miembro del equipo de control quiero consultar el listado general de reportes archivados para realizar el seguimiento institucional correspondiente.
+
+[Baja Prioridad]
+4. Como líder comunitario quiero descargar un resumen estadístico de las incidencias del mes para presentarlo en las reuniones de rendición de cuentas.

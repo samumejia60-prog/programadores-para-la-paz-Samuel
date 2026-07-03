@@ -1,0 +1,12 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Historia 1: Permitir que el ciudadano registre una incidencia en el sistema.
+- Historia 2: Configurar la alerta automática en Telegram para el coordinador.
+
+2. ¿Por qué son las más importantes?
+Son las más importantes porque constituyen el núcleo del canal participativo. Sin el registro del ciudadano no existe materia prima sobre la cual ejercer control social, y sin la alerta inmediata se pierde la oportunidad de reaccionar a tiempo y dar continuidad operativa al seguimiento comunitario.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”? (Definición de Terminado - DoD)
+Para mí, significa que la funcionalidad cumple con los objetivos de transparencia y usabilidad del proceso participativo sin dejar cabos sueltos técnicos. Mis 3 criterios son:
+- Funciona correctamente en el entorno de pruebas local.
+- No expone ni almacena ningún tipo de dato personal o sensible en canales públicos.
+- El código fue limpio, documentado y quedó registrado formalmente en Git.
