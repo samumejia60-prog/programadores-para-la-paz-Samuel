@@ -1,0 +1,5 @@
+DISEÑO DE INTERFAZ BÁSICA
+
+La interfaz de esta plataforma contará con una sección principal donde los usuarios autenticados encontrarán un formulario para crear un reporte de incidencia, el cual incluirá campos claros para el título, la descripción de la falla y la zona afectada del municipio. 
+
+Asimismo, dispondrá de una vista de causas e incidencias disponibles, diseñada como un panel público donde cualquier ciudadano podrá examinar los reportes radicados en el territorio. Cada registro expuesto incluirá un botón interactivo para apoyar la causa y un contador de apoyos visible en tiempo real que refleje la prioridad comunitaria de la queja, manteniendo un diseño limpio, transparente y completamente libre de datos personales o sensibles.

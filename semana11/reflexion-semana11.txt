@@ -1,0 +1,8 @@
+Una plataforma tecnológica enfocada en promover la participación ciudadana y el control social requiere obligatoriamente 
+de una base de datos, autenticación de usuarios y una rigurosa protección de la información. La base de datos actúa como el 
+soporte institucional digital que otorga permanencia, orden y trazabilidad a las quejas e iniciativas ciudadanas recopiladas, 
+permitiendo fiscalizar su evolución real en el territorio. Por otro lado, contar con un sistema de autenticación sólido es la 
+única garantía operativa para dar legitimidad a los procesos interactivos, asegurando que quienes respaldan una causa sean actores 
+comunitarios reales y no perfiles falsos manipulando la voluntad colectiva. Finalmente, la protección estricta de la información sensible 
+es un deber ético y una garantía democrática fundamental; si la plataforma expone datos personales, vulnera la seguridad de los líderes comunitarios 
+y destruye la confianza pública, demostrando que la seguridad informática es el pilar indispensable para el ejercicio seguro de la veeduría ciudadana.

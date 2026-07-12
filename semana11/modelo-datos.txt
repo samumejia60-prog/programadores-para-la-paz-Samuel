@@ -1,0 +1,24 @@
+Entidad: Incidencia
+
+Campos principales:
+- id
+- titulo_reporte
+- descripcion_falla
+- sector_municipio
+- fecha_registro
+
+Propósito:
+Almacenar los reportes o quejas que los ciudadanos registran sobre problemas en la infraestructura pública o fallas en los servicios del municipio.
+
+
+Entidad: Veedor
+
+Campos principales:
+- id
+- incidencia_id
+- codigo_veeduria
+- estado_revision
+- fecha_asignacion
+
+Propósito:
+Registrar la asignación del reporte a un comité de veeduría ciudadana para hacerle seguimiento formal al estado del caso y garantizar la trazabilidad.

@@ -1,0 +1,6 @@
+El login en una aplicación es el mecanismo de control que valida la identidad de un usuario 
+antes de permitirle operar en la plataforma. Es fundamental que las rutas internas de gestión 
+de veedurías y reportes estén protegidas para evitar alteraciones malintencionadas o accesos no 
+autorizados que comprometan la veracidad de los datos públicos. Para salvaguardar la integridad de 
+la comunidad, en ningún caso se debe exponer públicamente información como contraseñas, documentos 
+de identidad, números telefónicos, direcciones residenciales exactas, ni tokens de seguridad del sistema.
