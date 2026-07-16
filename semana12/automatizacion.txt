@@ -1,0 +1,3 @@
+Evento: Nueva causa o petición comunitaria registrada en la plataforma.
+Mensaje enviado: "Se ha creado una nueva causa comunitaria en el sistema. Te invitamos a revisarla y sumarte con tu apoyo para hacer control social".
+Información protegida: Por estrictas razones de seguridad y privacidad, nunca se deben enviar datos personales como números de cédula, números de teléfono, direcciones residenciales exactas, nombres de denunciantes ni comentarios de carácter sensible en la alerta pública.

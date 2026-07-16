@@ -1,0 +1,5 @@
+1. Un veedor o ciudadano crea una causa o reporte sobre una problemática en el municipio.
+2. La causa y sus detalles se almacenan de manera organizada en la base de datos de la plataforma.
+3. Los ciudadanos ingresan al panel público, revisan la causa y registran su voto de apoyo.
+4. El sistema contabiliza y actualiza en tiempo real el contador de apoyos de la queja comunitaria.
+5. Al alcanzar el respaldo necesario, el sistema genera automáticamente un documento PDF formal con la petición para ser radicado ante las autoridades.

@@ -1,0 +1,7 @@
+Entidad: IniciativaComunitaria
+Campos: id, asunto_comunitario, justificacion_necesidad, sector_municipio, fecha_creacion
+Propósito: Permite registrar de manera formal las solicitudes, reclamos colectivos o propuestas de desarrollo que los líderes o ciudadanos identifican como prioritarias para el municipio.
+
+Entidad: AdhesionCiudadana
+Campos: id, iniciativa_id, nombre_respaldante, barrio_vereda, fecha_firma
+Propósito: Almacena de forma segura las firmas y el respaldo digital de los habitantes que se suman a la iniciativa, vinculando cada firma con el ID de la propuesta correspondiente para validar el apoyo masivo.
